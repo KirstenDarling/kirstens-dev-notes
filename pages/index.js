@@ -17,6 +17,7 @@ export default function Home() {
           <div className={styles.lessons}>
             <h1>Bomb-Ass Shortcuts</h1>
             <p>Some cool shortcuts that I&apos;ve learned in VS Code</p>
+            <p>Coming Soon...</p>
           </div>
           <div className={styles.lessons}>
             <h1>Amazing Videos</h1>
@@ -24,20 +25,24 @@ export default function Home() {
               Some of my favorite coding lessons. Disclaimer: These videos
               won&apos;t put you to sleep.
             </p>
+            <p>Coming Soon...</p>
           </div>
           <div className={styles.lessons}>
             <h1>Helpful Articles</h1>
             <p>Useful articles that have helped me figure some things out.</p>
+            <p>Coming Soon...</p>
           </div>
           <div className={styles.lessons}>
             <h1>Cool Tools</h1>
             <p>My favorite tools, extensions, and add-ons</p>
+            <p>Coming Soon...</p>
           </div>
           <div className={styles.lessons}>
             <h1>Wicked Websites</h1>
             <p>
               Some of my fav sites that are just wicked cool. Simple as that.
             </p>
+            <p>Coming Soon...</p>
           </div>
           <div className={styles.lessons}>
             <h1>Dope Devs</h1>
@@ -45,6 +50,7 @@ export default function Home() {
               Some pretty cool devs who are out there doing pretty cool things.
               Def worth checking them out.
             </p>
+            <p>Coming Soon...</p>
           </div>
         </div>
       </main>
