@@ -13,6 +13,9 @@ export default function Home() {
     if (event.target.value === "ColonelMustardInTheLibraryWithALeadPipe") {
       setMessage("Welcome Kirsten, here's all your content down below");
       setShow(true);
+    } else if (event.target.value === "") {
+      setMessage("");
+      setShow(false);
     } else {
       setMessage("Nice try, but no cigar!");
       setShow(false);
