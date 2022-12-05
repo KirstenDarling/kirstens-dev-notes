@@ -104,6 +104,83 @@ export default function Home() {
                 </p>
                 <p>Coming Soon...</p>
               </div>
+              <div
+                className="tasksBoxes"
+                style={{
+                  width: "100%",
+                  display: "flex",
+                  justifyContent: "space-around",
+                  alignContent: "center",
+                  flexWrap: "wrap",
+                }}
+              >
+                <div className="left">
+                  <h1>Small Ideas:</h1>
+                  <ul>
+                    <li>JS Types</li>
+                    <li>Console.log</li>
+                    <li>Center a div</li>
+                    <li>Buttons</li>
+                    <li>Next Link</li>
+                    <li>Next Image</li>
+                    <li>Cursor Icons</li>
+                    <li>Schemas</li>
+                    <li>API Routes</li>
+                    <li>Get Static Props</li>
+                    <li>Get Static Paths</li>
+                    <li>Get Server Side Props</li>
+                  </ul>
+                </div>
+                <div className="right">
+                  <h1>Bigger Ideas:</h1>
+                  <ul>
+                    <li>Create React App</li>
+                    <li>Create Next App</li>
+                    <li>Sanity Init</li>
+                    <li>Git Init</li>
+                    <li>Vercel Setup</li>
+                    <li>Netlify Setup</li>
+                    <li>Grecaptcha V2 & V3</li>
+                    <li>A Contact Form</li>
+                    <li>Slider Container</li>
+                    <li>Components</li>
+                    <li>CSS Modules</li>
+                    <li>Animations</li>
+                    <li>Cards</li>
+                    <li>Routes</li>
+                    <li>Payment System</li>
+                    <li>SEO</li>
+                    <li>Google Analytics</li>
+                    <li>Google Search Console</li>
+                    <li>Google Tag Manager</li>
+                    <li>Validation</li>
+                    <li>Forms</li>
+                    <li>APIs</li>
+                    <li>Authentication</li>
+                    <li>Authorization</li>
+                    <li>Database</li>
+                    <li>Deployment</li>
+                    <li>Hosting</li>
+                    <li>Domains</li>
+                    <li>SSL</li>
+                    <li>CDN</li>
+                    <li>Cloudflare</li>
+                    <li>Cloudinary</li>
+                    <li>Stripe</li>
+                    <li>Paypal</li>
+                    <li>Mailchimp</li>
+                    <li>Mailgun</li>
+                    <li>Sendgrid</li>
+                    <li>Twilio</li>
+                    <li>Google Maps</li>
+                    <li>Google Fonts</li>
+                    <li>Portable Text</li>
+                    <li>Markdown</li>
+                    <li>JSON</li>
+                    <li>SVG Image Components</li>
+                  </ul>
+                </div>
+              </div>
             </div>
           )}
         </main>
